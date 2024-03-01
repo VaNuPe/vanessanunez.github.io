@@ -40,7 +40,7 @@ I conducted a market analysis to identify opportunities for a movie rental shopâ
 
 An end-to-end analysis covering historical video game sales (1980-2016) to foster a better understanding of how a company's new games might fare in the market. I decided to run this analysis exclusively in Excel because the data set size was manageable, only 16,601 rows, and because it is a vital tool that a good analyst should be an expert in, too. The analysis and visualizations could be more impactful using Python or Tableau. Still, it is essential to have a solid understanding of this spreadsheet application and a working knowledge of its various formulas, functions, and data visualization capabilities. 
 
-<img src="Images/GameCo_Platforms.png?raw=true"/>
+<img src="Images/GameCO_Global&Regional_Sales.png?raw=true"/><img src="Images/GameCo_Platforms.png?raw=true"/>
 
 ---
 
