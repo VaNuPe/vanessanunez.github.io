@@ -65,7 +65,7 @@ _July 2009 to July 2013 (4 years)_
 - Reviewed articles and other documents before their publications, providing feedback to the authors and ensuring the quality of the texts. 
 - Representative of the researchers in the Faculty Board.
 
-Do you want to see my complete resume? Click [here](/pdf/Resume_VanessaNunez_DataAnalyst.pdfResume_VanessaNunez_DataAnalyst.pdf)? 
+Do you want to see my complete resume? Click [here](/pdf/Resume_VanessaNunez_DataAnalyst.pdf) 
 
 ---
 
