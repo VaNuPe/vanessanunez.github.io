@@ -42,6 +42,9 @@ An end-to-end analysis covering historical video game sales (1980-2016) to foste
 
 <img src="Images/GameCO_Global&Regional_Sales.png?raw=true"/><img src="Images/GameCo_Platforms.png?raw=true"/>
 
+
+[Download](/pdf/Case Studies Portfolio - Vanessa Nunez.pdf) my portfolio as presentation.
+
 ---
 
 ### Relevant Work Experience
@@ -60,7 +63,9 @@ _July 2009 to July 2013 (4 years)_
 - Sourced and analyzed thousands of documents archived in five countries with quantitative and qualitative methods and presented the results at international conferences and publications.  
 - Coordinated seminars and conferences involving students and professors of different universities and research centers. 
 - Reviewed articles and other documents before their publications, providing feedback to the authors and ensuring the quality of the texts. 
-- Representative of the researchers in the Faculty Board. 
+- Representative of the researchers in the Faculty Board.
+
+Do you want to see my complete resume? Click [here](/pdf/Resume_VanessaNunez_DataAnalyst.pdfResume_VanessaNunez_DataAnalyst.pdf)? 
 
 ---
 
