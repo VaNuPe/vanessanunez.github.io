@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Airbnb Berlin](https://public.tableau.com/views/AirbnbBerlin_17090407314950/AirbnbBerlin?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
+[Airbnb Berlin](https://public.tableau.com/views/AirbnbBerlin_17090407314950/AirbnbBerlin?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"} 
 
 Market research for the most well-known company for short-term housing rentals utilizing supervised and unsupervised machine learning algorithms and geospatial analysis with Python and Tableau.
 The characteristics of this project required a deep understanding of Python and libraries such as Bokeh, Plotly, Dash, Folium, Geopandas, Geoplot, and scikit-learn. The scripts and visualizations created with Python are available for reference in a [GitHub repository](https://github.com/vanessanunezp/Geospatial_Analysis_Project)
