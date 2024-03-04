@@ -26,7 +26,7 @@ One of the biggest challenges was the data set's size: more than 30 million rows
 The goal of this project was strategically assign key medical staff ahead of the flu season using Excel, VLOOKUP, and Tableau for data visualization. All the process and the corresponding analysis and findings are consolidated in an Interim Report available for consultation in a [GitHub Repository](https://github.com/vanessanunezp/Staffing_Distribution){:target="_blank"}, and the final storyboard is in Tableau Public.
 The big challenge of this project was integrating the different available data sets into one, mainly because the values were not uniform.
 
-<img src="Images/influenza.png?raw=true"/>
+<img src="Images/Influenza_final_chart.png?raw=true"/>
 
 ---
 [Rockbuster Stealth](https://github.com/vanessanunezp/Market_Research_Project){:target="_blank"} 
