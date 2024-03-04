@@ -6,3 +6,6 @@ description: I’m a Data Analyst with experience in machine learning and academ
   <div><a href="https://public.tableau.com/app/profile/vanessa.nunez.penas/vizzes" target="_blank">View My Tableau Public</a></div>
   
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
