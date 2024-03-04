@@ -23,7 +23,7 @@ One of the biggest challenges was the data set's size: more than 30 million rows
 ---
 [Influenza Season in the U.S.](https://public.tableau.com/views/RecommendationsfortheInfluenzaSeasoninU_S_/StaffPlan?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"} 
 
-The goal of this project was strategically assign key medical staff ahead of the flu season using Excel, VLOOKUP, and Tableau for data visualization. All the process and the corresponding analysis and findings are consolidated in an Interim Report available for consultation in a [GitHub Repository](https://github.com/vanessanunezp/Staffing_Distribution){:target="_blank"} , and the final storyboard is in Tableau Public.
+The goal of this project was strategically assign key medical staff ahead of the flu season using Excel, VLOOKUP, and Tableau for data visualization. All the process and the corresponding analysis and findings are consolidated in an Interim Report available for consultation in a [GitHub Repository](https://github.com/vanessanunezp/Staffing_Distribution){:target="_blank"}, and the final storyboard is in Tableau Public.
 The big challenge of this project was integrating the different available data sets into one, mainly because the values were not uniform.
 
 <img src="Images/influenza.png?raw=true"/>
@@ -31,7 +31,7 @@ The big challenge of this project was integrating the different available data s
 ---
 [Rockbuster Stealth](https://github.com/vanessanunezp/Market_Research_Project){:target="_blank"} 
 
-I conducted a market analysis to identify opportunities for a movie rental shop’s transition to an online service. I loaded all data into a relational database management system (RDBMS) to use SQL to analyze and answer ad-hoc business questions, from inventory to customer insights. To communicate my findings effectively, I transformed my SQL results into visualizations with [Tableau Public](https://public.tableau.com/views/RockbusterMarket/Story1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"} .
+I conducted a market analysis to identify opportunities for a movie rental shop’s transition to an online service. I loaded all data into a relational database management system (RDBMS) to use SQL to analyze and answer ad-hoc business questions, from inventory to customer insights. To communicate my findings effectively, I transformed my SQL results into visualizations with [Tableau Public](https://public.tableau.com/views/RockbusterMarket/Story1?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}.
 
 <img src="Images/Rockbuster_Treemap.png?raw=true"/>
 
@@ -50,7 +50,9 @@ An end-to-end analysis covering historical video game sales (1980-2016) to foste
 ### Relevant Work Experience
 
 **Machine Learning Data Associate**
+
 Amazon Development Center Germany GmbH
+
 _June 2017 to October 2023 (6 years, 4 months)_
 - Supported the complete Natural Language Understanding pipeline of Alexa in Spanish and German to improve the understanding, the answers, and the text-to-speech of the devices. 
 - Coordinated different workflows and verified processes, increasing the quality by up to 98%.
@@ -58,7 +60,9 @@ _June 2017 to October 2023 (6 years, 4 months)_
 - Person of contact regarding privacy issues working with the data from customers. 
 
 **Lecturer of Contemporary History**
+
 Complutense University of Madrid
+
 _July 2009 to July 2013 (4 years)_
 - Sourced and analyzed thousands of documents archived in five countries with quantitative and qualitative methods and presented the results at international conferences and publications.  
 - Coordinated seminars and conferences involving students and professors of different universities and research centers. 
